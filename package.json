@@ -1,0 +1,22 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrocon18/cypress-e2e.git"
+  },
+  "author": "Lucas Rocon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrocon18/cypress-e2e/issues"
+  },
+  "homepage": "https://github.com/lrocon18/cypress-e2e#readme",
+  "dependencies": {
+    "cypress": "^12.1.0"
+  }
+}
